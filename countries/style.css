@@ -1,0 +1,16 @@
+.container {
+    display: flex;
+    margin-top: 150px;
+    justify-content: center;
+}
+.card {
+    width: 300px;
+    border: 1px solid black;
+}
+img {    
+    width: 300px;
+    border: 1px solid black;
+}
+.search-box {
+    padding: 15px 10px;
+}
